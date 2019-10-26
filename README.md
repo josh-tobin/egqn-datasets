@@ -59,4 +59,9 @@ Then make sure you are logged into gcloud by running `gcloud auth application-de
 
 ### Other tensorflow issues
 
-This code was tested with 1.13.1, try using that version.
+This code was tested with tensorflow 1.13.1, try using that version.
+
+## Reference
+
+Tobin, Josh, et al. "Geometry-Aware Neural Rendering." *Advances in Neural Information Processing Systems*. 2019.
+
